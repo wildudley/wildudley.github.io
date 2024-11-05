@@ -1,0 +1,187 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+   <link href="./style.css" rel="stylesheet" type="text/css" />
+   <title> Sitara Shefta Consulting </title>
+   <meta name="description"
+      content="Portfolio of 3d Environment art for Console and Mobile Games. Including RIZE, Transformers, Hasbro Arcade, Kinect Sports II and Fable: The Journey">
+   <!-- InstanceBegin template="/Templates/Template.dwt" codeOutsideHTMLIsLocked="false" -->
+   <meta content="text/html; charset=us-ascii" http-equiv="Content-Type" />
+   <meta content="0" http-equiv="Expires" />
+   <link href="./style.css" rel="stylesheet" type="text/css" />
+   <!--#include  file="menu.html" -->
+</head>
+
+<body>
+   <center>
+      <div id="menu">
+         <div id="menu-left">
+            <font color="#FFFFFF">Sitara Shefta</font>
+         </div>
+         <div id="menu-right">
+            <a href="#about">
+               <div id="button">
+                  <div>About</div>
+               </div>
+            </a>
+            <a href="#services">
+               <div id="button">
+                  <div>Services</div>
+               </div>
+            </a>
+            <a href="#contact">
+               <div id="button">
+                  <div>Contact</div>
+               </div>
+            </a>
+         </div>
+      </div>
+      <div id="page">
+         <h2 id="about">
+            <div>
+               <div id="subheader" style="padding-top: 60px;">
+                  Direction & Development Consultant
+               </div>
+               <div id="about-box">
+                  <div id="about-img">
+                     <img src="me.jpg" height="300px">
+                  </div>
+                  <div id="about-text">
+                     <p>
+                        I'm Sitara Shefta, a video game development consultant with expertise in project management and
+                        creative direction, delivering high-quality, innovative games on time and within budget.
+                  </div>
+               </div>
+            </div>
+            <div id="info-text" style="text-align: left; padding-top: 40px; line-height: 28px;">
+               In my role as a Studio Director, I'm focused and passionate about creating and growing a thriving,
+               ethical, inspiring culture and environment, all whilst driving Creative to make fun and quality
+               games, and continually contributing to the growth of both franchise and business.<br>
+               <br>
+               I'm passionate about helping and supporting both new and existing teams in the games industry and
+               you can see the types of services I can offer below.<br>
+               <br>
+               I've built a wealth of experience and skills over the years including:<br>
+               <br>
+               - Studio Direction & Management<br>
+               - Leadership & People Management<br>
+               - Production Management<br>
+               - Game Direction<br>
+               - Business Development including Pitching & Contract Negotiation<br>
+               <br>
+               I have a strong background in Games Production, having contributed to a number of studios and
+               projects since 2011, including AAA and Indie, leading teams and developing titles across multiple
+               platforms such as PC, Console, VR and Mobile. You can see just some of the games I've worked on
+               below!<br>
+               <br>
+               I'm also available for speaking opportunities and journalist contributions, and one of my talks
+               even got a write up on
+               <a style="color:#bc66d6; text-decoration-line: underline"
+                  href="https://www.gamesindustry.biz/how-to-be-a-great-leader-at-a-games-company-without-going-bananas">
+                  gamesindustry.biz.</a>
+            </div>
+            <div id="awards" width="100%">
+               <br>Awards<br>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 18px 0px;">Games Hall of Fame Award<br>(2016)</div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text">Game Development<br>DevelopHER Award <br>(2018)</div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 18px 0px;">Develop's 30 under 30 <br>(2017)</div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text">Gamesindustry.biz<br>100 Future Talent <br>(2018)</div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text">Gamesindustry.biz<br>100 Top Influential Women <br>(2019)</div>
+               </div>
+            </div>
+         </h2>
+
+      </div>
+      <div id="page"
+         style="box-shadow: 0px 15px 35px #bac9db;background: linear-gradient(to right, #bc66d6, #ffbeb0); ">
+         <div id="subheader" style="color:#FFFFFF">
+            Services
+         </div>
+         <h2 id="services">
+            <div id="info-text" style="color:#FFFFFF">
+               <div id="box-out">
+                  <div id="box-text">
+                     Public speaking, including talks, panel discussions, interviews
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 18px 0px;">
+                     Production consultancy & feedback
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 18px 0px;">
+                     Game Direction consultancy & feedback
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text">
+                     Studio management, leadership & direction consultancy and advisory
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 32px 0px;">
+                     Problem solving
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 32px 0px;">
+                     Publisher negotiations
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 18px 0px;">
+                     Sourcing suitable outsourcing partners
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text" style="margin: 32px 0px;">
+                     Pitch feedback
+                  </div>
+               </div>
+               <div id="box-out">
+                  <div id="box-text">
+                     <font size="4px">
+                        Mentorship & guest lectures for Universities, Colleges, Schools & Communities
+                     </font>
+                  </div>
+               </div>
+            </div>
+         </h2>
+      </div>
+      <div id="page" style="background-color:#FFFFFF">
+         <h2 id="contact">
+            <div id="subheader">
+               Contact
+            </div>
+            <div id="socials">
+               <p><a href="https://uk.linkedin.com/in/sitara-shefta">
+                     <img src="icons/Aiga_mail_inv.png" width="45px"
+                        style="vertical-align:middle; padding:0px 6px 0px 20px;">
+                     sitara@prettycoolgames.co.uk
+                  </a>
+                  <a href="https://uk.linkedin.com/in/sitara-shefta">
+                     <img src="icons/LinkedIn_icon.svg" width="45px"
+                        style="vertical-align:middle; padding:0px 6px 0px 20px">
+                     Sitara Shefta
+                  </a>
+                  <a href="https://uk.linkedin.com/in/sitara-shefta">
+                     <img src="icons/X_icon.svg" width="45px" style="vertical-align:middle; padding:0px 6px 0px 20px">
+                     @SitaraShefta
+                  </a>
+            </div>
+         </h2>
+      </div>
+   </center>
+</body>
+
+</html>
