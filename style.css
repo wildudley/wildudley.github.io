@@ -49,7 +49,7 @@ h2 {
   background-color: #CECECE;
   border-width: 2px;
   border-style: none none solid none;
-    border-color: #ba6bde;
+  border-color: #ba6bde;
   padding-left: 40px;
   padding-right: 20px;
   position: fixed;
@@ -87,7 +87,7 @@ h2 {
   background-color: #bc66d6;
   border-width: 0px 0px 2px 0px;
   border-style: none none solid none;
-    border-color: #ba6bde;
+  border-color: #ba6bde;
   background: linear-gradient(to right, #bc66d6, #ffbeb0);
   height: 40px;
   position: fixed;
@@ -175,7 +175,6 @@ h2 {
   width: 100%;
   text-align: center;
   display: inline-block;
-  float: center;
   color: #844597;
   font-size: 22px;
   letter-spacing: 4px;
@@ -234,5 +233,73 @@ img {
 
   100% {
     opacity: 1;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+
+  #menu {
+    width: 100%;
+
+    float: center;
+    text-align: center;
+  }
+
+  #page {
+    width: 576;
+    text-align: center;
+  }
+
+
+  @media only screen and (max-device-width: 1024px) {
+    body {
+      width: 528px;
+    }
+
+    #header {
+      display: none;
+    }
+
+    #info {
+      width: 100%;
+      padding: 0px;
+    }
+
+    #subheader {
+      float: center;
+    }
+
+    #page {
+      float: center;
+      width: 100%;
+      text-align: center;
+    }
+
+    #thumbLarge {
+      width: 100%;
+      padding: 0px;
+    }
+
+    #about-text {
+      width: 58%;
+      float: right;
+    }
+
+    #about-img {
+      width: 38%;
+      float: left;
+    }
+
+    #thumbSmall {
+      display: none;
+    }
+
+    #thumbnail {
+      width: vw;
+      height: vw;
+      padding: 0px;
+      margin: 0px;
+      margin-bottom: 4px;
+    }
   }
 }
