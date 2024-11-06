@@ -15,6 +15,7 @@ head {
 a {
   text-decoration: none;
   color: #844597;
+  font-weight: 200;
 }
 
 h2 {
@@ -33,7 +34,7 @@ h2 {
   font-size: 22px;
   border-width: 2px 0px 0px 0px;
   border-style: solid none none none;
-  border-color: #ffbeb0;
+  border-color: #ba6bde;
   padding-bottom: 40px;
   background: linear-gradient(to right, #ffebe6, #fae1ff)
 }
@@ -48,7 +49,7 @@ h2 {
   background-color: #CECECE;
   border-width: 2px;
   border-style: none none solid none;
-  border-color: #ffbeb0;
+    border-color: #ba6bde;
   padding-left: 40px;
   padding-right: 20px;
   position: fixed;
@@ -76,7 +77,7 @@ h2 {
   color: #844597;
   margin-bottom: 0px;
   padding: 24px 0px 20px 0px;
-  font-weight: lighter;
+  font-weight: 100;
   letter-spacing: 4px;
 }
 
@@ -86,7 +87,7 @@ h2 {
   background-color: #bc66d6;
   border-width: 0px 0px 2px 0px;
   border-style: none none solid none;
-  border-color: #ffbeb0;
+    border-color: #ba6bde;
   background: linear-gradient(to right, #bc66d6, #ffbeb0);
   height: 40px;
   position: fixed;
@@ -152,22 +153,22 @@ h2 {
 #about-text {
   text-align: left;
   font-size: 22px;
-  font-weight: normal;
-  line-height: 36px;
+  font-weight: 300;
+  line-height: 40px;
   float: right;
-  width: 70%;
+  width: 63%;
   color: #844597;
-  margin: 60px 0px;
-  letter-spacing: 2px;
+  padding: 0px 48px;
+  margin: 50px 0px;
+  letter-spacing: 1px;
 }
 
 #info-text {
-  font-size: 17px;
-  font-weight: normal;
+  font-size: 18.5px;
   width: 100%;
   color: #844597;
   float: left;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 #awards {
@@ -185,7 +186,7 @@ h2 {
   width: 28%;
   height: 100px;
   display: inline-block;
-  font-weight: normal;
+  font-weight: 300;
   text-align: center;
   line-height: 32px;
   font-size: 20px;
@@ -233,86 +234,5 @@ img {
 
   100% {
     opacity: 1;
-  }
-}
-
-@media only screen and (max-width: 800px) {
-
-  #title {
-    display: none;
-  }
-
-  #menu {
-    width: 100%;
-
-    float: center;
-    text-align: center;
-  }
-
-  #feature {
-    width: 100%;
-  }
-
-  #page {
-    width: 576;
-    text-align: center;
-  }
-
-  #thumbSmall {
-    width: 260px;
-    padding: 2px 3px;
-  }
-
-
-  @media only screen and (max-device-width: 1024px) {
-    body {
-      width: 528px;
-    }
-
-    #header {
-      display: none;
-    }
-
-    #info {
-      width: 100%;
-      padding: 0px;
-    }
-
-    #subheader {
-      float: center;
-    }
-
-    #page {
-      float: center;
-      width: 100%;
-      text-align: center;
-    }
-
-    #thumbLarge {
-      width: 100%;
-      padding: 0px;
-    }
-
-    #about-text {
-      width: 58%;
-      float: right;
-    }
-
-    #about-img {
-      width: 38%;
-      float: left;
-    }
-
-    #thumbSmall {
-      display: none;
-    }
-
-    #thumbnail {
-      width: vw;
-      height: vw;
-      padding: 0px;
-      margin: 0px;
-      margin-bottom: 4px;
-    }
   }
 }
